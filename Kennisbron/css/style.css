@@ -1,0 +1,151 @@
+html {
+    background-color: lightgray;
+}
+
+.rondehoeken {
+    background-image: url("../img/bug.jpg");
+    background-size: cover;
+    border-style: solid ;
+    border-color: white;
+    border-width: 6px;
+    border-radius: 24px 24px 24px 0px;
+    height:100px;
+    font-family: "Century Gothic";
+    font-size: 50px;
+    color: orangered;
+    text-shadow: 2px 2px black;
+}
+
+.kennisbron {
+    margin-left: 60px;
+}
+header {
+    background-color: white;
+    border-style: solid ;
+    border-color: white;
+    border-width: 3px;
+    border-radius: 24px 24px 24px 0px;
+}
+
+.navblok {
+    background-color: green;
+    border-style: solid ;
+    border-color: white;
+    border-width: 8px;
+    width:200px;
+    height: 160px;
+    display: block;
+    margin: 5px;
+    border-radius: 25px 25px 25px 0px;
+}
+
+.rechts {
+    float: right;
+    margin-top: -40px;
+}
+
+.article {
+    background-size: cover;
+    border-style: solid ;
+    border-color: white;
+    border-width: 8px;
+    border-radius: 25px 25px 25px 0px;
+    background-color: orange;
+    width: 84%;
+    margin-left: 225px;
+    margin-top: -543px;
+    height: 500px;
+}
+
+.artikel1 {
+    background-size: cover;
+    border-style: solid ;
+    border-color: orange;
+    border-width: 8px;
+    border-radius: 25px 25px 25px 0px;
+    background-color: white;
+    width: 98%;
+    height: 200px;
+}
+.artikel2 {
+    background-size: cover;
+    border-style: solid ;
+    border-color: orange;
+    border-width: 8px;
+    border-radius: 25px 25px 25px 0px;
+    background-color: white;
+    width: 98%;
+    height: 100px;
+}
+.artikel3 {
+    background-size: cover;
+    border-style: solid ;
+    border-color: orange;
+    border-width: 8px;
+    border-radius: 25px 25px 25px 0px;
+    background-color: white;
+    width: 98%;
+}
+
+h2 {
+    font-family: "Arial Black";
+    font-size: 15px;
+}
+
+h1 {
+    font-family: "Arial Black";
+}
+
+#menubalk li {
+    list-style-type: none;
+    display: inline-block;
+}
+
+footer {
+    width:99%;
+    border-radius: 25px 25px 25px 0px;
+    border-style: solid ;
+    border-width: 8px;
+    border-color: white;
+    margin-top: 30px;
+    background-color: dodgerblue;
+    text-align: center;
+    color: white;
+}
+
+.navbloktext {
+    margin-left: 10px;
+}
+
+p {
+    margin-left: 15px;
+    color: white;
+}
+
+.artikeltekst {
+    margin-left: 10px;
+}
+
+.rood1 {
+    border-radius: 25px 25px 25px 0px;
+    border-style: solid ;
+    border-width: 8px;
+    border-color: orangered;
+    background-color: orangered;
+    width: 200px;
+    height: 120px;
+    margin-left: 80%;
+    margin-top: -35px;
+}
+
+.rood2 {
+    border-radius: 25px 25px 25px 0px;
+    border-style: solid ;
+    border-width: 8px;
+    border-color: orangered;
+    background-color: orangered;
+    width: 200px;
+    height: 100px;
+    margin-left: 80%;
+    margin-top: -55px;
+}
